@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "sweet",
+      "category": "Vegetables",
+      "price": 95,
+      "freshness": "Refurbished",
+      "comment": "didsz",
+      "date": "2022-02-22T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Mangos",
+      "category": "Vegetables",
+      "price": 54,
+      "freshness": "Second Hand",
+      "comment": "Great",
+      "date": "2022-03-09T00:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
