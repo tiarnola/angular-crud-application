@@ -1,5 +1,10 @@
 # AngularCrudApplication
 
+NOTE: to run JSON server using command:
+npx json-server --watch db.json 
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
 ## Development server
