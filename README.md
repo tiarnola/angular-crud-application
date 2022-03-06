@@ -1,6 +1,6 @@
 # AngularCrudApplication
 
-NOTE: to run JSON server using command:
+NOTE run JSON server using command:
 npx json-server --watch db.json 
 
 
